@@ -1,0 +1,41 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.0;net45;net48;net5.0</TargetFrameworks>
+    <RootNamespace>Iminetsoft.Settings</RootNamespace>
+    <PackageId>Iminetsoft.INIFile</PackageId>
+    <Copyright>Iminetsoft © 2023</Copyright>
+    <AssemblyVersion>2.2.*</AssemblyVersion>
+    <FileVersion>2.2.0.2</FileVersion>
+	  <Version>2.2.0.2</Version>
+    <Authors>Iminetsoft</Authors>
+    <Company>Iminetsoft</Company>
+    <Description>Simple INI handler class for C#</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <Deterministic>False</Deterministic>    
+	  <PackageProjectUrl>https://github.com/iminet/INIFile</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/iminet/INIFile</RepositoryUrl>
+    <PackageReleaseNotes>Added package icon and other metadata</PackageReleaseNotes>
+  </PropertyGroup>
+  
+  <ItemGroup>
+    <None Include="Resources\iminetsoft.png" Pack="true" PackagePath="\"></None>
+    <!--<None Include="..\Readme.md" Pack="true" PackagePath="\"></None>-->
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>
