@@ -20,6 +20,7 @@
     <PackageIcon>iminetsoft.png</PackageIcon>
     <PackageReadmeFile>Readme.md</PackageReadmeFile>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>ini settings csharp</PackageTags>
   </PropertyGroup>
   
   <ItemGroup>
