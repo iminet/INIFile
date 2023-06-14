@@ -1,0 +1,8 @@
+D:\Imi\repos\INIFile\bin\Debug\net45\INIFile.dll
+D:\Imi\repos\INIFile\bin\Debug\net45\INIFile.pdb
+D:\Imi\repos\INIFile\obj\Debug\net45\Iminetsoft.Settings.Properties.Resources.resources
+D:\Imi\repos\INIFile\obj\Debug\net45\INIFile.csproj.GenerateResource.cache
+D:\Imi\repos\INIFile\obj\Debug\net45\INIFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Imi\repos\INIFile\obj\Debug\net45\INIFile.csproj.CoreCompileInputs.cache
+D:\Imi\repos\INIFile\obj\Debug\net45\INIFile.dll
+D:\Imi\repos\INIFile\obj\Debug\net45\INIFile.pdb

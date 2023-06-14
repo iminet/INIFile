@@ -6,8 +6,8 @@
     <PackageId>Iminetsoft.INIFile</PackageId>
     <Copyright>Iminetsoft © 2023</Copyright>
     <AssemblyVersion>2.2.*</AssemblyVersion>
-    <FileVersion>2.2.0.2</FileVersion>
-	  <Version>2.2.0.2</Version>
+    <FileVersion>2.2.0.4</FileVersion>
+	  <Version>2.2.0.4</Version>
     <Authors>Iminetsoft</Authors>
     <Company>Iminetsoft</Company>
     <Description>Simple INI handler class for C#</Description>
@@ -17,11 +17,14 @@
 	  <PackageProjectUrl>https://github.com/iminet/INIFile</PackageProjectUrl>
     <RepositoryUrl>https://github.com/iminet/INIFile</RepositoryUrl>
     <PackageReleaseNotes>Added package icon and other metadata</PackageReleaseNotes>
+    <PackageIcon>iminetsoft.png</PackageIcon>
+    <PackageReadmeFile>Readme.md</PackageReadmeFile>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
   
   <ItemGroup>
     <None Include="Resources\iminetsoft.png" Pack="true" PackagePath="\"></None>
-    <!--<None Include="..\Readme.md" Pack="true" PackagePath="\"></None>-->
+    <None Include="Readme.md" Pack="true" PackagePath="\"></None>
   </ItemGroup>
   <ItemGroup>
     <Compile Update="Properties\Resources.Designer.cs">

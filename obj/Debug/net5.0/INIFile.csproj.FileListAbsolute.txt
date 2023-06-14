@@ -1,0 +1,11 @@
+D:\Imi\repos\INIFile\bin\Debug\net5.0\INIFile.deps.json
+D:\Imi\repos\INIFile\bin\Debug\net5.0\INIFile.dll
+D:\Imi\repos\INIFile\bin\Debug\net5.0\ref\INIFile.dll
+D:\Imi\repos\INIFile\bin\Debug\net5.0\INIFile.pdb
+D:\Imi\repos\INIFile\obj\Debug\net5.0\Iminetsoft.Settings.Properties.Resources.resources
+D:\Imi\repos\INIFile\obj\Debug\net5.0\INIFile.csproj.GenerateResource.cache
+D:\Imi\repos\INIFile\obj\Debug\net5.0\INIFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Imi\repos\INIFile\obj\Debug\net5.0\INIFile.csproj.CoreCompileInputs.cache
+D:\Imi\repos\INIFile\obj\Debug\net5.0\INIFile.dll
+D:\Imi\repos\INIFile\obj\Debug\net5.0\ref\INIFile.dll
+D:\Imi\repos\INIFile\obj\Debug\net5.0\INIFile.pdb
