@@ -1,9 +1,0 @@
-D:\Imi\repos\INIFile\bin\Debug\netstandard2.0\INIFile.deps.json
-D:\Imi\repos\INIFile\bin\Debug\netstandard2.0\INIFile.dll
-D:\Imi\repos\INIFile\bin\Debug\netstandard2.0\INIFile.pdb
-D:\Imi\repos\INIFile\obj\Debug\netstandard2.0\Iminetsoft.Settings.Properties.Resources.resources
-D:\Imi\repos\INIFile\obj\Debug\netstandard2.0\INIFile.csproj.GenerateResource.cache
-D:\Imi\repos\INIFile\obj\Debug\netstandard2.0\INIFile.GeneratedMSBuildEditorConfig.editorconfig
-D:\Imi\repos\INIFile\obj\Debug\netstandard2.0\INIFile.csproj.CoreCompileInputs.cache
-D:\Imi\repos\INIFile\obj\Debug\netstandard2.0\INIFile.dll
-D:\Imi\repos\INIFile\obj\Debug\netstandard2.0\INIFile.pdb

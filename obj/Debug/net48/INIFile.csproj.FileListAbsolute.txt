@@ -1,8 +1,0 @@
-D:\Imi\repos\INIFile\bin\Debug\net48\INIFile.dll
-D:\Imi\repos\INIFile\bin\Debug\net48\INIFile.pdb
-D:\Imi\repos\INIFile\obj\Debug\net48\Iminetsoft.Settings.Properties.Resources.resources
-D:\Imi\repos\INIFile\obj\Debug\net48\INIFile.csproj.GenerateResource.cache
-D:\Imi\repos\INIFile\obj\Debug\net48\INIFile.GeneratedMSBuildEditorConfig.editorconfig
-D:\Imi\repos\INIFile\obj\Debug\net48\INIFile.csproj.CoreCompileInputs.cache
-D:\Imi\repos\INIFile\obj\Debug\net48\INIFile.dll
-D:\Imi\repos\INIFile\obj\Debug\net48\INIFile.pdb
