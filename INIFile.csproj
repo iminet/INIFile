@@ -6,8 +6,8 @@
     <PackageId>Iminetsoft.INIFile</PackageId>
     <Copyright>Iminetsoft © 2023</Copyright>
     <AssemblyVersion>2.3.*</AssemblyVersion>
-    <FileVersion>2.3.0.0</FileVersion>
-	  <Version>2.3.0.0</Version>
+    <FileVersion>2.3.0.1</FileVersion>
+	  <Version>2.3.0.1</Version>
     <Authors>Iminetsoft</Authors>
     <Company>Iminetsoft</Company>
     <Description>Simple INI handler class for C#</Description>
