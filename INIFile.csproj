@@ -1,13 +1,13 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFrameworks>netstandard2.0;net45;net48;net5.0</TargetFrameworks>
+    <TargetFrameworks>netstandard2.0;net45;net48;net5.0;net6.0;net7.0</TargetFrameworks>
     <RootNamespace>Iminetsoft.Settings</RootNamespace>
     <PackageId>Iminetsoft.INIFile</PackageId>
     <Copyright>Iminetsoft © 2023</Copyright>
-    <AssemblyVersion>2.2.*</AssemblyVersion>
-    <FileVersion>2.2.0.4</FileVersion>
-	  <Version>2.2.0.4</Version>
+    <AssemblyVersion>2.3.*</AssemblyVersion>
+    <FileVersion>2.3.0.0</FileVersion>
+	  <Version>2.3.0.0</Version>
     <Authors>Iminetsoft</Authors>
     <Company>Iminetsoft</Company>
     <Description>Simple INI handler class for C#</Description>
@@ -16,11 +16,12 @@
     <Deterministic>False</Deterministic>    
 	  <PackageProjectUrl>https://github.com/iminet/INIFile</PackageProjectUrl>
     <RepositoryUrl>https://github.com/iminet/INIFile</RepositoryUrl>
-    <PackageReleaseNotes>Added package icon and other metadata</PackageReleaseNotes>
+    <PackageReleaseNotes>Added support of new .NET versions (6.0, 7.0)</PackageReleaseNotes>
     <PackageIcon>iminetsoft.png</PackageIcon>
     <PackageReadmeFile>Readme.md</PackageReadmeFile>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageTags>ini settings csharp</PackageTags>
+    <CheckEolTargetFramework>false</CheckEolTargetFramework>
   </PropertyGroup>
   
   <ItemGroup>
